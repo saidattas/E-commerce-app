@@ -1,2 +1,2 @@
-# store
+# E-commerce-app
 ## E-commerce app usign react-native and expo-cli
